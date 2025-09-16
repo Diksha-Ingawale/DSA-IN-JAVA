@@ -1,0 +1,34 @@
+# 🧩 DSA in Java
+
+This repository contains my solutions to various **Data Structures and Algorithms (DSA)** problems implemented in **Java**.  
+It is a collection of basic to advanced coding problems that I’m practicing to strengthen my problem-solving and coding skills.  
+
+---
+
+## 📂 Folder Structure
+- **Arrays** → Matrix operations, finding max element, diagonal matrix  
+- **Numbers** → Prime, Armstrong, Factorial, Fibonacci, Leap year, Reverse number, etc.  
+- **Strings** → Palindrome, display alphabets, string manipulations  
+
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Diksha-Ingawale/dsa-in-java.git 
+
+2. Navigate to the folder:
+    cd dsa-in-java
+
+3. Compile and run any Java file:
+    javac FileName.java
+    java FileName
+
+
+
+
+📌 Note
+
+This repository is part of my personal learning journey in DSA with Java.
+I’ll keep updating it regularly as I solve more problems.

@@ -1,0 +1,27 @@
+import java.util.*;
+public class PrimeOrNot {
+    public static int isPrime(int num){
+        if(num<=1){
+            return 0;
+        }
+        for(int i=2;i<num/2;i++){
+            if(num % i == 0){
+                return 0;
+            }
+        } 
+        return 1;  
+    }
+    public static void main(String[] args) {
+        Scanner sc =new Scanner(System.in);
+
+        System.out.println("Enter Number :");
+        int num =sc.nextInt();
+         
+        if(isPrime(num)==1){
+            System.out.println("Number is Prime.");
+        }else{
+            System.out.println("Number is not Prime.");
+        }
+        sc.close();
+    }
+}
