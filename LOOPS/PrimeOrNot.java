@@ -1,4 +1,6 @@
+package loops;
 import java.util.*;
+
 public class PrimeOrNot {
     public static int isPrime(int num){
         if(num<=1){

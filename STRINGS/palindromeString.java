@@ -1,4 +1,6 @@
+package strings;
 import java.util.*;
+
 public class palindromeString {
     public static int isPalindrome(char[] input, int len){
         int start=0;
@@ -14,6 +16,7 @@ public class palindromeString {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
+        System.out.println("Enter size:");
         int len=sc.nextInt();
 
         String str = sc.next();
