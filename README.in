@@ -1,16 +1,25 @@
-# 🧩 DSA in Java
+#🧠 DSA-IN-JAVA
+🚀 Overview
 
-This repository contains my solutions to various **Data Structures and Algorithms (DSA)** problems implemented in **Java**.  
-It is a collection of basic to advanced coding problems that I’m practicing to strengthen my problem-solving and coding skills.  
-
+This repository contains Java implementations of Data Structures and Algorithms (DSA) organized by topics.
+Each program is written with clarity, focusing on logic building, binary search applications, and coding interview preparation.
 ---
 
-## 📂 Folder Structure
-- **Arrays** → Matrix operations, finding max element, diagonal matrix  
-- **Numbers** → Prime, Armstrong, Factorial, Fibonacci, Leap year, Reverse number, etc.  
-- **Strings** → Palindrome, display alphabets, string manipulations  
+## 📂 Folder Overview
 
+ARRAYS – Binary search, Infinite array, Floor & Ceiling problems
 
+BASICS – Introductory programs (HelloUser, AsciiValue, etc.)
+
+CONDITIONALS – If-else and switch-based logic
+
+LOOPS – Loop and pattern programs
+
+STRINGS – String operations and handling
+
+functions / exceptions – Java methods and exception handling
+
+leetcode – Binary search-based LeetCode problem solutions
 ---
 
 ## 🚀 How to Run
@@ -24,7 +33,6 @@ It is a collection of basic to advanced coding problems that I’m practicing to
 3. Compile and run any Java file:
     javac FileName.java
     java FileName
-
 
 
 
